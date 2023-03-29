@@ -4,5 +4,5 @@ This simple bash script removes snap from Ubuntu.  The content for this script c
 **Usage**
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/franksmcb/remove-snap/main/remove-snap.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/franksmcb/mint-min/mint-min.sh)"
 ```
